@@ -1,0 +1,6 @@
+com\app\demo\item\ItemRepo.class
+com\app\demo\SprappApplication.class
+com\app\demo\item\Item.class
+com\app\demo\item\ItemConfig.class
+com\app\demo\item\ItemService.class
+com\app\demo\item\itemController.class
